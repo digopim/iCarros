@@ -86,6 +86,15 @@ public class Main {
         return winnerPoints + " (the team at i=" + winnerTeam + " would win this championship)";
     }
 
+    //Q5 -
+        //    SELECT o.OrderID as OrderID , sum(ct.Price) as TotalPrice
+        //    from Orders o
+        //    left join Customer cr ON o.CustomerID = cr.CustomerID
+        //    left join Component ct ON ct.OrderID = o.OrderID
+        //    where cr.CustomerName = 'DeathStar'
+        //    group by o.OrderID
+
+
     //Q6 - MarsRover
         // more then one robot
         // map = rectangular
