@@ -1,4 +1,5 @@
 # iCarros
+
 Questão 1 - Fizzing 'n buzzing
 Write a program that prints the numbers from 1 to 100. But for multiples of three
 print "Fizz" instead of the number and for multiples of five print "Buzz". For
@@ -39,7 +40,7 @@ were made and how much they did cost. To do so, you need to create a SQL
 query that returns the total value of each order made by CustomerName
 "DeathStar", showing the OrderID and TotalPrice (one order per row).
 
-Questão 7 – MarsRover
+Questão 6 – MarsRover
 An implementation of the MarsRover coding challenge
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This
 plateau, which is curiously rectangular, must be navigated by the rovers so that
